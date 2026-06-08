@@ -143,15 +143,15 @@ body {
 }
 
 .primary-btn {
-    background: linear-gradient(45deg, #8A2BE2, #FF1493);
-    color: white;
+    background: #FEE500;
+    color: #000000;
     border: none;
-    box-shadow: 0 4px 15px rgba(138, 43, 226, 0.4);
+    box-shadow: 0 4px 15px rgba(254, 229, 0, 0.3);
 }
 
 .primary-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(138, 43, 226, 0.6);
+    box-shadow: 0 6px 20px rgba(254, 229, 0, 0.5);
 }
 
 .secondary-btn {
